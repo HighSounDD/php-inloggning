@@ -28,4 +28,4 @@ if ($id&&$code)
 else
 	die("de saknas data");
 
-?>
+// Stäng ej PHP-läge sist i filerna
